@@ -22,7 +22,7 @@ struct ShapesBootCamp: View {
 //                lineWidth: 20, lineCap: .butt,
 //                dash: [3]
 //            ))
-            .trim(from: 0.5, to: 1.0)
+//            .trim(from: 0.5, to: 1.0)
 //            .stroke(.red, lineWidth: 20)
             .frame(width: 300,height: 150, alignment: .center)
     }
