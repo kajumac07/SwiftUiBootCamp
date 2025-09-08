@@ -3,6 +3,7 @@
 //  SwiftUiBootCamp
 //
 //  Created by Atul Tiwari on 07/09/25.
+//  Here we learn All Text Properties
 //
 
 import SwiftUI
