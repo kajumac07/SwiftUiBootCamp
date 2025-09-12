@@ -17,13 +17,7 @@ struct GridBootcamp: View {
 
     var body: some View {
         ScrollView {
-            //            LazyVGrid(columns: columns) {
-            //                ForEach(0..<40) { index in
-            //                    Rectangle()
-            //                        .fill(.red)
-            //                        .frame(height: 150)
-            //                }
-            //            }
+            
             LazyVGrid(columns: columns,
                       alignment: .center,
                       spacing: 10,
