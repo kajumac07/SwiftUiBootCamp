@@ -10,7 +10,7 @@ import SwiftUI
 
 struct ForEachBootcamp: View {
     
-    let data: [String] = ["Hi", "Hello", "Hello Everyone"]
+    let data: [String] = ["Mango", "Apples", "Oranges"]
     let myString : String = "Hello"
     
     var body: some View {
