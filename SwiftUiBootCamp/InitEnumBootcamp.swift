@@ -24,11 +24,9 @@ struct InitEnumBootcamp: View {
             self.title = "Oranges"
             self.backgroundColor = .orange
         }
-         
-        
     }
     
-    
+    //create fruit enum
     enum Fruit{
         case apple
         case orange
