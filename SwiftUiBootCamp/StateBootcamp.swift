@@ -24,10 +24,6 @@ struct StateBootcamp: View {
                 Text(colorTitle)
                     .font(.largeTitle)
                     .fontWeight(.semibold)
-                    
-                Text("Count: 1")
-                    .font(.title)
-                    .fontWeight(.light)
                 
                 HStack (spacing:20){
                     
