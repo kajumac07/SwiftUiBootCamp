@@ -35,7 +35,7 @@ struct ExtractedFunctionsBootcamp: View {
                     .fontWeight(.semibold)
                     .foregroundStyle(.white)
                     .padding()
-                    .background(.red)
+                    .background(.green)
                     .clipShape(RoundedRectangle(cornerRadius: 10))
             })
         }
