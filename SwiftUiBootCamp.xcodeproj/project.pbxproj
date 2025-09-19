@@ -8,11 +8,13 @@
 
 /* Begin PBXBuildFile section */
 		2419356B2E6F34D500E4A53A /* GradientBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2419356A2E6F34D500E4A53A /* GradientBootcamp.swift */; };
+		248AC98B2E7D701900CCA328 /* LoginFormBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 248AC98A2E7D701900CCA328 /* LoginFormBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		2419356A2E6F34D500E4A53A /* GradientBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientBootcamp.swift; sourceTree = "<group>"; };
 		2479991C2E6DA21500767215 /* SwiftUiBootCamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUiBootCamp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		248AC98A2E7D701900CCA328 /* LoginFormBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginFormBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -37,6 +39,7 @@
 		247999132E6DA21500767215 = {
 			isa = PBXGroup;
 			children = (
+				248AC98A2E7D701900CCA328 /* LoginFormBootcamp.swift */,
 				2419356A2E6F34D500E4A53A /* GradientBootcamp.swift */,
 				2479991E2E6DA21500767215 /* SwiftUiBootCamp */,
 				2479991D2E6DA21500767215 /* Products */,
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2419356B2E6F34D500E4A53A /* GradientBootcamp.swift in Sources */,
+				248AC98B2E7D701900CCA328 /* LoginFormBootcamp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
