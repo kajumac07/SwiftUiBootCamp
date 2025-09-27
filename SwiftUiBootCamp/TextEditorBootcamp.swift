@@ -22,12 +22,12 @@ struct TextEditorBootcamp: View {
                         .stroke(Color.gray.opacity(0.5), lineWidth: 1)
                 )
                 .padding(.horizontal)
-                .onChange(of: notes) { newValue in
-                    // Character limit
-                    if newValue.count > charLimit {
-                        notes = String(newValue.prefix(charLimit))
-                    }
-                }
+//                .onChange(of: notes) { newValue in
+//                    // Character limit
+//                    if newValue.count > charLimit {
+//                        notes = String(newValue.prefix(charLimit))
+//                    }
+//                }
             
             // Character count
             Text("\(notes.count)/\(charLimit) characters")
